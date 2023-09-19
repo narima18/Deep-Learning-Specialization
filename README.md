@@ -14,8 +14,12 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 
 ## Course 1 : [Neural Networks And Deep Learning](https://github.com/narima18/Deep-Learning-Specialization/tree/170e4b1baed0e878777080bc737256ef98ea6bff/Neural%20Networks%20and%20Deep%20Learning)
 > In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. 
-> 
 > By the end, you will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 
 - [<b> Week 1 </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/c6e8602c672da371a038f4fb2f0f178c3880708e/Neural%20Networks%20and%20Deep%20Learning/Week%201)
   - [Q1 Introduction to Deep Learning](https://github.com/narima18/Deep-Learning-Specialization/tree/c6e8602c672da371a038f4fb2f0f178c3880708e/Neural%20Networks%20and%20Deep%20Learning/Week%201/Q1%20Introduction%20to%20Deep%20Learning)
+- [<b> Week 2 </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/1d15bb714149cf49b411d537d0c179a8a1cf50a0/Neural%20Networks%20and%20Deep%20Learning/Week%202)
+  - [Q1 Neural Network Basics](https://github.com/narima18/Deep-Learning-Specialization/tree/1d15bb714149cf49b411d537d0c179a8a1cf50a0/Neural%20Networks%20and%20Deep%20Learning/Week%202/Q1%20Neural%20Network%20Basics)
+  - [Python Basics with Numpy](https://github.com/narima18/Deep-Learning-Specialization/blob/1d15bb714149cf49b411d537d0c179a8a1cf50a0/Neural%20Networks%20and%20Deep%20Learning/Week%202/Python_Basics_with_Numpy.ipynb)
+  - [Logistic Regression with a Neural Network mindset](https://github.com/narima18/Deep-Learning-Specialization/blob/1d15bb714149cf49b411d537d0c179a8a1cf50a0/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+       
