@@ -13,3 +13,9 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 
 
 ## Course 1 : [Neural Networks And Deep Learning](https://github.com/narima18/Deep-Learning-Specialization/tree/170e4b1baed0e878777080bc737256ef98ea6bff/Neural%20Networks%20and%20Deep%20Learning)
+> In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. 
+> 
+> By the end, you will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+
+- [<b> Week 1 </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/c6e8602c672da371a038f4fb2f0f178c3880708e/Neural%20Networks%20and%20Deep%20Learning/Week%201)
+  - [Q1 Introduction to Deep Learning](https://github.com/narima18/Deep-Learning-Specialization/tree/c6e8602c672da371a038f4fb2f0f178c3880708e/Neural%20Networks%20and%20Deep%20Learning/Week%201/Q1%20Introduction%20to%20Deep%20Learning)
