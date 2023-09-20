@@ -10,6 +10,7 @@ The Deep Learning Specialization is a foundational program that will help you un
 In this Specialization, you will build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. Get ready to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, chatbots, machine translation, natural language processing, and more.
 
 AI is transforming many industries. The Deep Learning Specialization provides a pathway for you to take the definitive step in the world of AI by helping you gain the knowledge and skills to level up your career. Along the way, you will also get career advice from deep learning experts from industry and academia.
+<hr/>
 
 
 ## Course 1 : [Neural Networks And Deep Learning](https://github.com/narima18/Deep-Learning-Specialization/tree/170e4b1baed0e878777080bc737256ef98ea6bff/Neural%20Networks%20and%20Deep%20Learning)
@@ -53,7 +54,7 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 >By the end, you will be able to diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
 >This is also a standalone course for learners who have basic machine learning knowledge. This course draws on Andrew Ng’s experience building and shipping many deep learning products. If you aspire to become a technical leader who can set the direction for an AI team, this course provides the "industry experience" that you might otherwise get only after years of ML work experience.
 
--[<b> Quiz 1: Bird Recognition in the City of Peacetopia (Case Study) </b>](https://github.com/narima18/Deep-Learning-Specialization/tree/a657fb6567b07e33534fc6392101cf8b94fbaf9c/Structuring%20Machine%20Learning%20Projects/Bird%20Recognition%20in%20the%20City%20of%20Peacetopia%20(Case%20Study))
--[<b> Quiz 2: Autonomous Driving (Case Study)</b>](https://github.com/narima18/Deep-Learning-Specialization/tree/a657fb6567b07e33534fc6392101cf8b94fbaf9c/Structuring%20Machine%20Learning%20Projects/Autonomous%20Driving%20(Case%20Study))
+- [<b> Quiz 1: Bird Recognition in the City of Peacetopia (Case Study) </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/a657fb6567b07e33534fc6392101cf8b94fbaf9c/Structuring%20Machine%20Learning%20Projects/Bird%20Recognition%20in%20the%20City%20of%20Peacetopia%20(Case%20Study))
+- [<b> Quiz 2: Autonomous Driving (Case Study) </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/a657fb6567b07e33534fc6392101cf8b94fbaf9c/Structuring%20Machine%20Learning%20Projects/Autonomous%20Driving%20(Case%20Study))
 <hr/>
 
