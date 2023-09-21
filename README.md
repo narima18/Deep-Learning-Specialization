@@ -58,3 +58,22 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 - [<b> Quiz 2: Autonomous Driving (Case Study) </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/a657fb6567b07e33534fc6392101cf8b94fbaf9c/Structuring%20Machine%20Learning%20Projects/Autonomous%20Driving%20(Case%20Study))
 <hr/>
 
+## Course 4 : [Convolutional Neural Networks](https://github.com/narima18/Deep-Learning-Specialization/tree/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks)
+>In the fourth course of the Deep Learning Specialization, you will understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
+>By the end, you will be able to build a convolutional neural network, including recent variations such as residual networks; apply convolutional networks to visual detection and recognition tasks; and use neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data. 
+
+- [<b> Week 1 </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%201)
+  - [Quiz 1: The Basics of ConvNets](https://github.com/narima18/Deep-Learning-Specialization/tree/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%201/The%20Basics%20of%20ConvNets)
+  - [Lab 1: Convolutional Neural Networks: Step by Step](https://github.com/narima18/Deep-Learning-Specialization/blob/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v1.ipynb)
+  - [Lab 2: Convolutional Neural Networks: Application](https://github.com/narima18/Deep-Learning-Specialization/blob/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%201/Convolution_model_Application.ipynb)
+- [<b> Week 2 </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%202)
+  - [Quiz 1: Deep Convolutional Models](https://github.com/narima18/Deep-Learning-Specialization/tree/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%202/Deep%20Convolutional%20Models)
+  - [Lab 1: Residual Networks](https://github.com/narima18/Deep-Learning-Specialization/blob/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%202/Residual_Networks.ipynb)
+  - [Lab 2: Transfer Learning with MobileNetV2](https://github.com/narima18/Deep-Learning-Specialization/blob/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%202/Transfer_learning_with_MobileNet_v1.ipynb)
+- [<b> Week 3 </b> ]()
+  - [Quiz 1: Shallow Neural Networks]()    
+- [<b> Week 4 </b> ]()
+  - [Quiz 1: key Concepts on Deep Neural Networks]()
+  - [Building your Deep Neural Network: Step by Step]()
+  - [Deep Neural Network for Image Classification: Application]()
+<hr/>
