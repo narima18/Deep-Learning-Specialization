@@ -29,7 +29,7 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 - [<b> Week 4 </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/5b6bfe2c051014190680b1218cbecb6db8d65d81/Neural%20Networks%20and%20Deep%20Learning/Week%204)
   - [Quiz 1: key Concepts on Deep Neural Networks](https://github.com/narima18/Deep-Learning-Specialization/tree/5b6bfe2c051014190680b1218cbecb6db8d65d81/Neural%20Networks%20and%20Deep%20Learning/Week%204/Q1%20Key%20Concepts%20on%20Deep%20Neural%20Networks)
   - [Lab 1: Building your Deep Neural Network: Step by Step](https://github.com/narima18/Deep-Learning-Specialization/blob/5b6bfe2c051014190680b1218cbecb6db8d65d81/Neural%20Networks%20and%20Deep%20Learning/Week%204/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
-  - [Deep Neural Network for Image Classification: Application](https://github.com/narima18/Deep-Learning-Specialization/blob/5b6bfe2c051014190680b1218cbecb6db8d65d81/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20-%20Application.ipynb)
+  - [Lab 2: Deep Neural Network for Image Classification: Application](https://github.com/narima18/Deep-Learning-Specialization/blob/5b6bfe2c051014190680b1218cbecb6db8d65d81/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20-%20Application.ipynb)
 <hr/>
 
 ## Course 2 : [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/narima18/Deep-Learning-Specialization/tree/5fd8f30d5b18effb7f7c9359b2e06a24e0b2db55/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%20Regularization%20and%20Optimization)
@@ -70,10 +70,12 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
   - [Quiz 1: Deep Convolutional Models](https://github.com/narima18/Deep-Learning-Specialization/tree/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%202/Deep%20Convolutional%20Models)
   - [Lab 1: Residual Networks](https://github.com/narima18/Deep-Learning-Specialization/blob/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%202/Residual_Networks.ipynb)
   - [Lab 2: Transfer Learning with MobileNetV2](https://github.com/narima18/Deep-Learning-Specialization/blob/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%202/Transfer_learning_with_MobileNet_v1.ipynb)
-- [<b> Week 3 </b> ]()
-  - [Quiz 1: Shallow Neural Networks]()    
-- [<b> Week 4 </b> ]()
-  - [Quiz 1: key Concepts on Deep Neural Networks]()
-  - [Building your Deep Neural Network: Step by Step]()
-  - [Deep Neural Network for Image Classification: Application]()
+- [<b> Week 3 </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%203)
+  - [Quiz 1: Detection Algorithms](https://github.com/narima18/Deep-Learning-Specialization/tree/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%203/Detection%20Algorithms)
+  - [Lab 1: Autonomous Driving - Car Detection](https://github.com/narima18/Deep-Learning-Specialization/blob/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%203/Autonomous_driving_application_Car_detection.ipynb)
+  - [Lab 2: Image Segmentation with U-Net](https://github.com/narima18/Deep-Learning-Specialization/blob/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%203/Image_segmentation_Unet_v2.ipynb)
+- [<b> Week 4 </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%204)
+  - [Quiz 1: Special Applications Face Recognition & Neural Style Transfer](https://github.com/narima18/Deep-Learning-Specialization/tree/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%204/Special%20Applications%20Face%20Recognition%20%26%20Neural%20Style%20Transfer)
+  - [Lab 1: Face Recognition](https://github.com/narima18/Deep-Learning-Specialization/blob/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%204/Face_Recognition.ipynb)
+  - [Lab 2: Deep Learning & Art: Neural Style Transfer](https://github.com/narima18/Deep-Learning-Specialization/blob/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%204/Art_Generation_with_Neural_Style_Transfer.ipynb)
 <hr/>
