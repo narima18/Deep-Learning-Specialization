@@ -79,3 +79,25 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
   - [Lab 1: Face Recognition](https://github.com/narima18/Deep-Learning-Specialization/blob/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%204/Face_Recognition.ipynb)
   - [Lab 2: Deep Learning & Art: Neural Style Transfer](https://github.com/narima18/Deep-Learning-Specialization/blob/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%204/Art_Generation_with_Neural_Style_Transfer.ipynb)
 <hr/>
+
+## Course 5 : [Sequence Models](https://github.com/narima18/Deep-Learning-Specialization/tree/6912831e16fb1a904e3923cebc5fcade5f7dc1a7/Sequence%20Models)
+>In the fifth course of the Deep Learning Specialization, you will become familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
+>By the end, you will be able to build and train Recurrent Neural Networks (RNNs) and commonly-used variants such as GRUs and LSTMs; apply RNNs to Character-level Language Modeling; gain experience with natural language processing and Word Embeddings; and use HuggingFace tokenizers and transformer models to solve different NLP tasks such as NER and Question Answering.ata. 
+
+- [<b> Week 1 </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/6912831e16fb1a904e3923cebc5fcade5f7dc1a7/Sequence%20Models/Week%201)
+  - [Quiz 1: Recurrent Neural Networks](https://github.com/narima18/Deep-Learning-Specialization/tree/6912831e16fb1a904e3923cebc5fcade5f7dc1a7/Sequence%20Models/Week%201/Recurrent%20Neural%20Networks)
+  - [Lab 1: Building your Recurrent Neural Network - Step by Step](https://github.com/narima18/Deep-Learning-Specialization/blob/6912831e16fb1a904e3923cebc5fcade5f7dc1a7/Sequence%20Models/Week%201/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+  - [Lab 2: Character level language model - Dinosaurus Island](https://github.com/narima18/Deep-Learning-Specialization/blob/6912831e16fb1a904e3923cebc5fcade5f7dc1a7/Sequence%20Models/Week%201/Dinosaurus_Island_Character_level_language_model.ipynb)
+  - [Lab 3: Improvise a Jazz Solo with an LSTM Network](https://github.com/narima18/Deep-Learning-Specialization/blob/6912831e16fb1a904e3923cebc5fcade5f7dc1a7/Sequence%20Models/Week%201/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+- [<b> Week 2 </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%202)
+  - [Quiz 1: Deep Convolutional Models](https://github.com/narima18/Deep-Learning-Specialization/tree/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%202/Deep%20Convolutional%20Models)
+  - [Lab 1: Residual Networks](https://github.com/narima18/Deep-Learning-Specialization/blob/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%202/Residual_Networks.ipynb)
+  - [Lab 2: Transfer Learning with MobileNetV2](https://github.com/narima18/Deep-Learning-Specialization/blob/ed05150a8e6215f9d133068eb6e512fd0f763736/Convolutional%20Neural%20Networks/Week%202/Transfer_learning_with_MobileNet_v1.ipynb)
+- [<b> Week 3 </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%203)
+  - [Quiz 1: Detection Algorithms](https://github.com/narima18/Deep-Learning-Specialization/tree/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%203/Detection%20Algorithms)
+  - [Lab 1: Autonomous Driving - Car Detection](https://github.com/narima18/Deep-Learning-Specialization/blob/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%203/Autonomous_driving_application_Car_detection.ipynb)
+  - [Lab 2: Image Segmentation with U-Net](https://github.com/narima18/Deep-Learning-Specialization/blob/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%203/Image_segmentation_Unet_v2.ipynb)
+- [<b> Week 4 </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%204)
+  - [Quiz 1: Special Applications Face Recognition & Neural Style Transfer](https://github.com/narima18/Deep-Learning-Specialization/tree/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%204/Special%20Applications%20Face%20Recognition%20%26%20Neural%20Style%20Transfer)
+  - [Lab 1: Face Recognition](https://github.com/narima18/Deep-Learning-Specialization/blob/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%204/Face_Recognition.ipynb)
+  - [Lab 2: Deep Learning & Art: Neural Style Transfer]
