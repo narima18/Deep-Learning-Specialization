@@ -97,7 +97,6 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
   - [Quiz 1: Sequence Models & Attention Mechanism](https://github.com/narima18/Deep-Learning-Specialization/tree/4236bc438726490878c18afb866e3d25b4027fd4/Sequence%20Models/Week%203/Sequence%20Models%20%26%20Attention%20Mechanism)
   - [Lab 1: Neural Machine Translation](https://github.com/narima18/Deep-Learning-Specialization/blob/4236bc438726490878c18afb866e3d25b4027fd4/Sequence%20Models/Week%203/Neural_machine_translation_with_attention_v4a.ipynb)
   - [Lab 2: Trigger Word Detection](https://github.com/narima18/Deep-Learning-Specialization/blob/4236bc438726490878c18afb866e3d25b4027fd4/Sequence%20Models/Week%203/Trigger_word_detection_v2a.ipynb)
-- [<b> Week 4 </b> ]()
-  - [Quiz 1: Special Applications Face Recognition & Neural Style Transfer](https://github.com/narima18/Deep-Learning-Specialization/tree/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%204/Special%20Applications%20Face%20Recognition%20%26%20Neural%20Style%20Transfer)
-  - [Lab 1: Face Recognition](https://github.com/narima18/Deep-Learning-Specialization/blob/c84092aee7b83ea42556846deeb334c842d37a5a/Convolutional%20Neural%20Networks/Week%204/Face_Recognition.ipynb)
-  - [Lab 2: Deep Learning & Art: Neural Style Transfer]
+- [<b> Week 4 </b> ](https://github.com/narima18/Deep-Learning-Specialization/tree/622d2218cff8b517ce90c045c983ba54b1f73c61/Sequence%20Models/Week%204)
+  - [Quiz 1: Transformers](https://github.com/narima18/Deep-Learning-Specialization/tree/622d2218cff8b517ce90c045c983ba54b1f73c61/Sequence%20Models/Week%204/Transformers)
+  - [Lab 1: Transformer Network](https://github.com/narima18/Deep-Learning-Specialization/blob/622d2218cff8b517ce90c045c983ba54b1f73c61/Sequence%20Models/Week%204/C5_W4_A1_Transformer_Subclass_v1.ipynb)
